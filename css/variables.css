@@ -1,0 +1,49 @@
+:root {
+    /* ============ */
+    /* == COLORS == */
+    /* ============ */
+    --color-primary: #00695C;
+    --color-secondary: #D84315;
+    --color-accent: #6A1B9A;
+    --color-text: #212121;
+    --color-bg: #FFFFFF;
+
+    /* =============== */
+    /* == GRAYSCALE == */
+    /* =============== */
+    --color-gray-light: #EEEEEE;
+    --color-gray-medium: #BDBDBD;
+    --color-gray-dark: #424242;
+  
+    /* ================ */
+    /* == TYPOGRAPHY == */
+    /* ================ */
+    --font-base: "Dekko", "Playpen Sans", "Comic Sans MS", "Arial", sans-serif;
+    --font-size-base: 20px;
+    --font-size-heading: 3rem;
+    --font-size-subheading: 2rem;
+    --font-size-small: 1.5rem;
+
+    /* ============================== */
+    /* == SPACING (MARGIN/PADDING) == */
+    /* ============================== */
+    --spacing-xsmall: 4px;
+    --spacing-small: 8px;
+    --spacing-medium: 16px;
+    --spacing-large: 32px;
+    --spacing-xlarge: 64px;
+  
+    /* =================== */
+    /* == BORDER RADIUS == */
+    /* =================== */
+    --radius-small: 4px;
+    --radius-medium: 8px;
+    --radius-large: 16px;
+  
+    /* ============= */
+    /* == SHADOWS == */
+    /* ============= */
+    --shadow-light: 0 1px 4px rgba(0, 0, 0, 0.1);
+    --shadow-medium: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+  
